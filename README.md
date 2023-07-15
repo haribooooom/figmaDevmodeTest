@@ -1,2 +1,2 @@
-# fugmaTest
-# fugmaTest
+# figmaDevmodeTest
+- Dev modeのテスト用レポジトリ
